@@ -1,8 +1,45 @@
 ## General projects notes and ideas
 
+Detect a fire risk
+ - Excessive heat, plus high winds - model learns to predict fire risk
+ - 
+ 
 Analysing landscapes
+
+Check - some suggestions by Chat GPT follows (retyped and summarised) :
+--------------- Chat GPT suggestions retyped and summarised ---------
+Plant stress could mean
+ - Lack of water
+ - Nutrient Deficiency
+ - Disease
+ - Excess heat
+ - Excess salinity 
+ - Pest Attack
+
+Lower refelctance in NIR -> leaves lose internal structure
+Higher reflectance in red = less Chlorophul absorption
+
+Detect crop water stress before its visible
+Optimizse irrigation schedules
+identify butrient or disease hot spots
+estimate yield potential
+
+"
+Spectral Region	Sensitive To	What It Tells You
+Visible (400–700 nm)	Chlorophyll absorption	Greenness, photosynthesis
+Red edge (~700 nm)	Chlorophyll breakdown	Stress onset
+Near-Infrared (NIR, 700–1300 nm)	Leaf structure + water content	Health and moisture
+Shortwave Infrared (SWIR, 1300–2500 nm)
+" - Chat GPT
+
+
+--------------- /Chat GPT suggestions retyped and summarised ---------
+
+
+  
+
 Use Normalised Difference Vegetation index
-Use NDWI - Water index
+Use NDWI - Water index - see https://en.wikipedia.org/wiki/Normalized_difference_water_index - used to monitor water content in leaves, another similar formula can be used to "monitor water content in water bodies".
 Use PRI - Photo chemical reflectance index
 https://en.wikipedia.org/wiki/Photochemical_Reflectance_Index
  - Can be used to measure plants response to stress.
@@ -17,6 +54,7 @@ Caratenoids absorb light energy in photosnthesis, used by all photosynthetic org
  - It compares reflectance in the blue spectrum which - which is cholorophyll and caratenoids, with the red which is
    chlorophyll only - Therefore it can determine a kind of an index between choloropyl to aratenooid levels
    which is often called bulk pigment rations.
+
 
 
 "
