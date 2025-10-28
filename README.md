@@ -2,7 +2,9 @@
 
 Detect a fire risk
  - Excessive heat, plus high winds - model learns to predict fire risk
- - 
+ - Analyse dry amounts of vegetation and highlight fire risks
+
+Could use Sentinel2 and Landsat, and SAR
  
 Analysing landscapes
 
