@@ -1,5 +1,8 @@
 ## General projects notes and ideas
 
+How to Get Sentinel-2 data
+https://www.earthdata.nasa.gov/learn/tutorials/find-landsat-sentinel-2-imagery-area-interest-worldview
+
 Detect a fire risk
  - Excessive heat, plus high winds - model learns to predict fire risk
  - Analyse dry amounts of vegetation and highlight fire risks
