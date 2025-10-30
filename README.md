@@ -10,6 +10,9 @@ https://worldview.earthdata.nasa.gov/?v=-77.65758407235927,17.658408159709015,-7
 good - Sep 17
 https://worldview.earthdata.nasa.gov/?v=-77.57930077951943,17.652102845112566,-75.95948500167677,18.427420917944552&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,HLS_L30_Nadir_BRDF_Adjusted_Reflectance,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2025-09-17-T12%3A00%3A00Z
 
+Sep 8
+https://worldview.earthdata.nasa.gov/?v=-78.30558106917734,17.568022057430863,-76.52691667919247,18.4193723565955&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,HLS_L30_Nadir_BRDF_Adjusted_Reflectance,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2025-09-08-T12%3A00%3A00Z
+
 Detect a fire risk
  - Excessive heat, plus high winds - model learns to predict fire risk
  - Analyse dry amounts of vegetation and highlight fire risks
