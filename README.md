@@ -4,7 +4,11 @@ How to Get Sentinel-2 data
 https://www.earthdata.nasa.gov/learn/tutorials/find-landsat-sentinel-2-imagery-area-interest-worldview
 
 World View Jamaica
+Oct 10
 https://worldview.earthdata.nasa.gov/?v=-77.65758407235927,17.658408159709015,-76.55776909530198,18.18483001591508&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,HLS_L30_Nadir_BRDF_Adjusted_Reflectance,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2025-10-10-T12%3A00%3A00Z
+
+good - Sep 17
+https://worldview.earthdata.nasa.gov/?v=-77.57930077951943,17.652102845112566,-75.95948500167677,18.427420917944552&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,HLS_L30_Nadir_BRDF_Adjusted_Reflectance,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2025-09-17-T12%3A00%3A00Z
 
 Detect a fire risk
  - Excessive heat, plus high winds - model learns to predict fire risk
